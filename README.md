@@ -1,16 +1,15 @@
-## Hi there 👋
+#Prazer,eu sou Giovanna Oliveira! 👋
+_________________________________
+Transformo ideias criativas, em códigos-->
+💻##Estudante de Desenvolvimento Front-end
+🚀 Aprendendo JavaScript e explorando o universo da Programação
+✨ Interessada em ADS(Análise e Desenvolvimento de sistemas
+----------------------------------------------------------------
+###Tecnologias e ferramentas
+HTML CSS JavaScript(em aprendizado) Git e Github
+![Tecnologias: HTML, CSS, JavaScript, Git e GitHub](https://skillicons.dev/icons?i=html,css,js,git,github)
 
-<!--
-**giovannagso6/giovannagso6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Vamos nos conectar?
 
-Here are some ideas to get you started:
+Em breve, adicionarei mais projetos e novidades por aqui!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
